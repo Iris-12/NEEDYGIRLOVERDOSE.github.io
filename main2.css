@@ -930,39 +930,7 @@
   border-radius: var(--border-radius);
   opacity: 0.25;
 }
-:root .root-8LYsGj .body-1Ukv50 .userInfoSection-2u2hir .connectedAccounts-1YaT2t .connectedAccount-1xKpli .connectedAccountIcon-2vls0t[src="/assets/5d69e29f0d71aaa04ed9725100199b4e.png"] + .connectedAccountNameInner-t24B11::before {
-  background-color: #191717;
-}
-:root .root-8LYsGj .body-1Ukv50 .userInfoSection-2u2hir .connectedAccounts-1YaT2t .connectedAccount-1xKpli .connectedAccountIcon-2vls0t[src="/assets/f0655521c19c08c4ea4e508044ec7d8c.png"] + .connectedAccountNameInner-t24B11::before {
-  background-color: #1ED760;
-}
-:root .root-8LYsGj .body-1Ukv50 .userInfoSection-2u2hir .connectedAccounts-1YaT2t .connectedAccount-1xKpli .connectedAccountIcon-2vls0t[src="/assets/f09c1c70a67ceaaeb455d163f3f9cbb8.png"] + .connectedAccountNameInner-t24B11::before {
-  background-color: #000000;
-}
-:root .root-8LYsGj .body-1Ukv50 .userInfoSection-2u2hir .connectedAccounts-1YaT2t .connectedAccount-1xKpli .connectedAccountIcon-2vls0t[src="/assets/0d44ba28e39303de3832db580a252456.png"] + .connectedAccountNameInner-t24B11::before {
-  background-color: #5DC21E;
-}
-:root .root-8LYsGj .body-1Ukv50 .userInfoSection-2u2hir .connectedAccounts-1YaT2t .connectedAccount-1xKpli .connectedAccountIcon-2vls0t[src="/assets/3abe9ce5a00cc24bd8aae04bf5968f4c.png"] + .connectedAccountNameInner-t24B11::before {
-  background-color: #FF4500;
-}
-:root .root-8LYsGj .body-1Ukv50 .userInfoSection-2u2hir .connectedAccounts-1YaT2t .connectedAccount-1xKpli .connectedAccountIcon-2vls0t[src="/assets/edbbf6107b2cd4334d582b26e1ac786d.png"] + .connectedAccountNameInner-t24B11::before {
-  background-color: #553092;
-}
-:root .root-8LYsGj .body-1Ukv50 .userInfoSection-2u2hir .connectedAccounts-1YaT2t .connectedAccount-1xKpli .connectedAccountIcon-2vls0t[src="/assets/4662875160dc4c56954003ebda995414.png"] + .connectedAccountNameInner-t24B11::before {
-  background-color: #1DA1F2;
-}
-:root .root-8LYsGj .body-1Ukv50 .userInfoSection-2u2hir .connectedAccounts-1YaT2t .connectedAccount-1xKpli .connectedAccountIcon-2vls0t[src="/assets/449cca50c1452b4ace3cbe9bc5ae0fd6.png"] + .connectedAccountNameInner-t24B11::before {
-  background-color: #D9252A;
-}
-:root .root-8LYsGj .body-1Ukv50 .userInfoSection-2u2hir .connectedAccounts-1YaT2t .connectedAccount-1xKpli .connectedAccountIcon-2vls0t[src="/assets/8c289d499232cd8e9582b4a5639d9d1d.png"] + .connectedAccountNameInner-t24B11::before {
-  background-color: #009AE5;
-}
-:root .root-8LYsGj .body-1Ukv50 .userInfoSection-2u2hir .connectedAccounts-1YaT2t .connectedAccount-1xKpli .connectedAccountIcon-2vls0t[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"] + .connectedAccountNameInner-t24B11::before {
-  background-color: #2D3283;
-}
-:root .root-8LYsGj .body-1Ukv50 .userInfoSection-2u2hir .connectedAccounts-1YaT2t .connectedAccount-1xKpli .connectedAccountIcon-2vls0t[src="/assets/806953fe1cc616477175cbcdf90d5cd3.png"] + .connectedAccountNameInner-t24B11::before {
-  background-color: #CEA146;
-}
+
 :root .userPopout-2j1gM4 .banner-1YaD3N,
 :root .root-8LYsGj .banner-1YaD3N {
   background-size: cover;
