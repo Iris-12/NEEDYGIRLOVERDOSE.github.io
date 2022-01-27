@@ -12,7 +12,7 @@
   min-width: unset;
   border-radius: var(--border-radius);
   background-color: var(--background-primary);
-  padding-bottom: 26px;
+  padding-bottom: 0px;
   overflow: visible;
 }
 :root .threadSidebar-1o3BTy::-webkit-scrollbar {
